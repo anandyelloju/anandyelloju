@@ -1,8 +1,7 @@
-# Hi, I'm Anand Yelloju! 👋
-Welcome to my GitHub profile, where you'll find a collection of my projects and contributions.
+# Hi,👋 I'm Anand Yelloju!👨🏻‍💼
+Passionate **Full Stack Developer** with **1+ year** of experience in building web applications. Skilled in HTML, CSS, Javascript, React.js, Tailwind css, Bootstrap, Java, Spring Boot, and Microservices. Adept at problem-solving, collaboration, and continuous learning, committed to delivering high-quality software solutions.
 
-### 🚀 About Me
-I'm a Full Stack Java Developer passionate about building robust and scalable web applications. With expertise in Java, Spring Boot, and front-end technologies like JavaScript and React, I enjoy tackling complex challenges and turning ideas into reality.
+Welcome to my **GitHub profile**, where you'll find a collection of my projects and contributions. 
 
 ## 🛠 Tech Stack
 
