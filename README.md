@@ -5,10 +5,9 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 ## 🛠 Tech Stack
 
-Fronten Tech\
+<h3>Front-end Tech</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)\
