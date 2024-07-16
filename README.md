@@ -7,8 +7,7 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 <h3>Front-end Tech</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind)](https://skillicons.dev)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)\
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap)](https://skillicons.dev)\
 Backend Tech\
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
