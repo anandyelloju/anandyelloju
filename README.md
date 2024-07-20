@@ -9,15 +9,9 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,react,tailwind,bootstrap)](https://skillicons.dev)
 
-Backend Tech\
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<h3> Backend Tech &emsp;&emsp; Databases </h3> 
 
-<h3>Databases</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,,,mongodb,mysql,postgres)](https://skillicons.dev)
 
 Other Tech\
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
