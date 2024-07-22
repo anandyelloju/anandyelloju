@@ -9,9 +9,9 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,react,tailwind,bootstrap)](https://skillicons.dev)
 
-<h3> Backend Tech &emsp;&emsp;&emsp; Databases </h3> 
+<h3> Backend Tech &emsp;&emsp;&emsp;&emsp;&emsp; Databases </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,,,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,,mongodb,mysql,postgres)](https://skillicons.dev)
 
 Other Tech\
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
