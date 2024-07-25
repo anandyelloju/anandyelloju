@@ -9,15 +9,14 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,bootstrap,tailwind,react)](https://skillicons.dev)
 
-<h3> Backend Tech &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Databases </h3> 
+<h3> Backend Tech &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Databases </h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,,mongodb,mysql,postgres)](https://skillicons.dev)
 
 <h3>Hosting</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
 Other Tech\
