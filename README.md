@@ -15,9 +15,11 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 <h3>Hosting</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,github)](https://skillicons.dev) 
 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+<!--<h3> Other &emsp;&emsp;&ensp; Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=python,,vscode)](https://skillicons.dev) -->
 
 Other Tech\
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
