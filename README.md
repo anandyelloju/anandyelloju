@@ -17,14 +17,9 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,github)](https://skillicons.dev) 
 
-<!--<h3> Other &emsp;&emsp;&ensp; Tools</h3>
+<h3> Other <!--&emsp;&emsp;&ensp; Tools --></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,,vscode)](https://skillicons.dev) -->
-
-Other Tech\
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandyelloju)
