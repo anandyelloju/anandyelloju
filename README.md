@@ -19,7 +19,7 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 <h3> Other &emsp;&emsp;&ensp;&ensp; Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,,vscode,eclipse,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,,vscode,eclipse,postman,vite)](https://skillicons.dev)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandyelloju)
