@@ -15,7 +15,7 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 <h3>Hosting</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,github,vercel)](https://skillicons.dev) 
 
 <h3> Other &emsp;&emsp;&ensp;&ensp; Tools</h3>
 
