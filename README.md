@@ -9,9 +9,9 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,bootstrap,tailwind,react)](https://skillicons.dev)
 
-<h3> Backend Tech &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Databases </h3> 
+<!--<h3> Backend Tech &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Databases </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,,mongodb,mysql,postgres)](https://skillicons.dev) -->
 
 <h3>Hosting</h3>
 
