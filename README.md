@@ -7,7 +7,7 @@ Welcome to my **GitHub profile**, where you'll find a collection of my projects 
 
 <h3>Front-end Tech</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,bootstrap,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,react,tailwind,bootstrap)](https://skillicons.dev)
 
 <!--<h3> Backend Tech &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Databases </h3> 
 
