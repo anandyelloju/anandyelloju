@@ -23,6 +23,8 @@ Let’s connect and grow together! 🚀
 
 Feel free to DM or follow if you’re into clean UI, frontend fun, self-growth, or tech collabs. 😄
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandyelloju)
+
 ## 🛠 Tech Stack
 
 <h3>Front-end Tech</h3>
@@ -41,5 +43,3 @@ Feel free to DM or follow if you’re into clean UI, frontend fun, self-growth, 
 
 [![My Skills](https://skillicons.dev/icons?i=python,,vscode,eclipse,postman,vite)](https://skillicons.dev)
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandyelloju)
