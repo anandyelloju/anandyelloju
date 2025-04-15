@@ -31,7 +31,7 @@ Feel free to DM or follow if you’re into clean UI, frontend fun, self-growth, 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,react,tailwind,bootstrap)](https://skillicons.dev)
 
-<!--<h3> Backend Tech &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Databases </h3> 
+<!--<h3> Backend Tech &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Databases  </h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,,mongodb,mysql,postgres)](https://skillicons.dev) -->
 
