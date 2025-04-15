@@ -35,7 +35,4 @@ Feel free to DM or follow if you’re into clean UI, frontend fun, self-growth, 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,github,vercel)](https://skillicons.dev) 
 
-<h3> Other &emsp;&emsp;&ensp;&ensp; Tools</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=python,,vscode,eclipse,postman,vite)](https://skillicons.dev)
 
