@@ -30,9 +30,3 @@ Feel free to DM or follow if you’re into clean UI, frontend fun, self-growth, 
 <h3>Front-end Tech</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,react,tailwind,bootstrap)](https://skillicons.dev)
-
-<h3>Hosting</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,github,vercel)](https://skillicons.dev) 
-
-
