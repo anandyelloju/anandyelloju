@@ -25,7 +25,7 @@ Feel free to DM or follow if you’re into clean UI, frontend fun, self-growth, 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandyelloju)
 
-<!-- ## 🛠 Tech Stack
+<!-- ## 🛠 Tech Stacki
 
 <h3>Front-end Tech</h3>
 
